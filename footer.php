@@ -16,6 +16,7 @@
                 )); ?>
                 <?php $copyText = esc_attr(get_option('mnyfashion_cText')); ?>
                 <p>&copy; <?php echo date('Y'); ?> <?php echo $copyText; ?></p>
+                <p><a href="http://manaylab.com/" target="_blank" style="color:#555;">manaylab.</a></p>
             </div><!-- col-md-12 -->
         </div><!-- row -->
     </div><!-- container -->
