@@ -1,0 +1,6 @@
+[1013/225739.445:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Coldmay\reports: Eriþim engellendi. (0x5)
+[1013/225739.449:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Boru sonlandý. (0x6D)
+[1013/225739.449:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Coldmay\reports: Eriþim engellendi. (0x5)
+[1013/234944.642:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Coldmay\reports: Eriþim engellendi. (0x5)
+[1013/234944.647:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Boru sonlandý. (0x6D)
+[1013/234944.647:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Coldmay\reports: Eriþim engellendi. (0x5)

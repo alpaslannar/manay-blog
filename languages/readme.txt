@@ -1,0 +1,1 @@
+In manayfashion documention file you can see how to install the template on your wordpress.
